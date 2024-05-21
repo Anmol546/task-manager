@@ -2,6 +2,7 @@
 
 A MERN application for basic tasks management.
 ![image](https://user-images.githubusercontent.com/86913048/227101123-f8a35258-9c21-4479-86e8-055659ab75e2.png)
+https://www.loom.com/share/c462c087be3c47a49cd3bbcb969ca9b8?sid=ceebe446-5242-401f-af4c-3f62d949ceec
 
 ## Table of Contents
 
